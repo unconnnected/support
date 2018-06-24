@@ -1,8 +1,8 @@
 # support
-Portfolio of support files written in GML by Paul Bennett.
-Files have been written as part of a game project. 
-The game is a hotel management simulation with only command line interface.
+Portfolio of support files written in PHP & GML by Paul Bennett.
 
+GML files have been written as part of a game project. 
+The game is a hotel management simulation with only command line interface.
 
 obj_terminal
 Main window interface for game. Uses only text line input.
@@ -18,3 +18,6 @@ Support file to split a string by length of characters. Returns array of strings
 
 scr_window_size_calc
 Support file for obj_terminal and other windows in game. Sets various drawing and positioning variables.
+
+PHP files have been written as part of a web applicaiton.
+The web application is a tool for management to decide on the building space assigned to departments within a company.
