@@ -3,7 +3,7 @@
 /**
  * 
  * @author Paul Bennett
- * @copyright Copyright (c) 2013 Bennett Media
+ * @copyright Copyright (c)
  * All rights reserved
  * @version 
  * 1.0 Build document
