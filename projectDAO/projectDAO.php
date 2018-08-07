@@ -2,7 +2,7 @@
 
 /**
  * 
- * @author Paul Bennett
+ * @author Paul B
  * @copyright Copyright (c)
  * All rights reserved
  * @version 
