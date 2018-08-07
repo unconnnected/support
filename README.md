@@ -1,5 +1,5 @@
 # support
-Portfolio of support files written in PHP, Javascript and GML by Paul Bennett.
+Portfolio of support files written in PHP, Javascript and GML by Paul B.
   
   
   
